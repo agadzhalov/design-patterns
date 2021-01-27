@@ -27,7 +27,7 @@ If the instance isn't needed it is never going to be created (Lazy instantiation
     }
     
     
- 6 - Thread safety implementation - `synchronized` guarantees that only on thread can execute this method at a time
+ 6 - Thread safety implementation - `synchronized` guarantees that only one thread can execute this method at a time
      
      public static Singleton getInstance() {
         if (instance == null) {
