@@ -1,4 +1,6 @@
-package com.design.patterns.factory.impl;
+package com.design.patterns.factory.model;
+
+import com.design.patterns.factory.impl.IEmployee;
 
 public abstract class Employee implements IEmployee {
 

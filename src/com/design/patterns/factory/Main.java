@@ -1,5 +1,8 @@
-package com.design.patterns.factory.impl;
+package com.design.patterns.factory;
 
+
+import com.design.patterns.factory.impl.EmployeeFactory;
+import com.design.patterns.factory.model.Employee;
 
 public class Main {
 

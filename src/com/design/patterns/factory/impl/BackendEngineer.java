@@ -1,5 +1,7 @@
 package com.design.patterns.factory.impl;
 
+import com.design.patterns.factory.model.Employee;
+
 public class BackendEngineer extends Employee {
 
     public BackendEngineer() {
